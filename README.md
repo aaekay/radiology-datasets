@@ -138,6 +138,7 @@ A comprehensive, curated list of publicly available radiology datasets for AI an
 
 | Dataset | Year | Size | Format | Open-Source Models |
 |---------|------|------|--------|--------------------|
+| [EchoXFlow](https://huggingface.co/datasets/Ahus-AIM/EchoXFlow) | 2026 | 35,377 recordings / 666 examinations | Zarr v2 in TAR; Croissant metadata | — |
 | [FETUS 2026](http://119.29.231.17:90/data.html) | 2026 | 5,000 fetal echocardiography scans, 14 structures | DICOM | — |
 | [TN5000](https://www.nature.com/articles/s41597-025-05757-4) | 2025 | 5,000 thyroid nodule images | PNG | — |
 | [FOCUS](https://zenodo.org/records/14597550) | 2025 | 300 fetal cardiac images | PNG | — |
